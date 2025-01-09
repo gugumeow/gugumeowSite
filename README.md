@@ -35,5 +35,13 @@ git clone https://github.com/my-username/repoB.git
 
 git pull = git fetch + git merge
 
+
+cd repoA-folder
+
 git pull origin main
+
+cd repoB-folder
+
+git pull origin main
+
 

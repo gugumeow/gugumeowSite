@@ -1,5 +1,5 @@
 # gugumeowSite
-gugumeow Source
+gugumeow hugo Source
 
 # hugo
 

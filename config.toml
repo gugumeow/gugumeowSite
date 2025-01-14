@@ -80,8 +80,9 @@ googleAnalitycsID = "Your ID"
 # mobile = "0124857985320"
 email = "gugumeow2009@gmail.com"
 location = "Taiwan, Taipei"
+
 # copyright
-copyright = "| copyright &copy; 2025 [GUGUMEOW](https://gugumeow.github.io) All Rights Reserved |"
+copyright = "| copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 
 # Preloader
 [params.preloader]

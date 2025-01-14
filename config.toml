@@ -80,15 +80,12 @@ googleAnalitycsID = "Your ID"
 # mobile = "0124857985320"
 email = "gugumeow2009@gmail.com"
 location = "Taiwan, Taipei"
-
 # copyright
-copyright = "| copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
-
+copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
 # Preloader
 [params.preloader]
 enable = true
 preloader = "" # use .png , .svg or .gif format
-
 # search
 [params.search]
 enable = true

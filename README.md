@@ -33,9 +33,16 @@ git clone https://github.com/my-username/repoA.git
 
 git clone https://github.com/my-username/repoB.git
 
+cd repoA-folder
 
-git pull = git fetch + git merge (excluding local Untracked Files, unless executing " git clean -df ")
+coding repoA
 
+cd repoB-folder
+
+coding repoB
+
+
+**git pull** = git fetch + git merge (excluding local Untracked Files, unless executing " git clean -df ")
 
 cd repoA-folder
 
